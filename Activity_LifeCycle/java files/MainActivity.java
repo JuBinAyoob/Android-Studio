@@ -1,5 +1,5 @@
 
-package com.apps.gabothekiller.myapplication;
+package jubin.activitycycle;
 
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
